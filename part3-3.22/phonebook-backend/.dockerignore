@@ -1,0 +1,7 @@
+/.git
+/node_modules
+.dockerignore
+.env
+Dockerfile
+fly.toml
+fly secrets set MONGODB_URI=mongodb+srv://manu:p9H5zk5J6lDyKeoZ@mycluster.djdcqgx.mongodb.net/phonebookApp?retryWrites=true&w=majority&appName=MyCluster
